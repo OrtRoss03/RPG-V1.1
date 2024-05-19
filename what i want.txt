@@ -1,0 +1,11 @@
+enemy:
+health, current and max that are displayed in real time and affected by the player's damage and crit
+attack power, how much damage can be dealt
+attack speed, how fast the enemy can attack, higher number between the enemy and the player goes first
+crit chance, the chance of doing 1.5x attack to player's health
+
+player:
+health, current and max that are displayed in real time and affected by the enemy's damage and crit
+attack power, how much damage can be dealt
+attack speed, how fast the player can attack, higher number between the enemy and the player goes first
+crit chance, the chance of doing 1.5x attack to enemy's health

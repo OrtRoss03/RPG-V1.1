@@ -1,0 +1,10 @@
+combat system:
+the player and enemy confront, whoever has the highest speed goes first
+that entity attacks and deals damage equal to attack power
+the second highest goes next and attacks
+scenario ends when either entity reaches 0 hp
+if enemy hp reaches 0, player continues
+	when scenario ends, the player receives xp and the story continues
+if player hp reaches 0, game over
+	if the player wants to continue, they can make a new character and begin the story again
+	if not, the program closes
